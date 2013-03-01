@@ -18,10 +18,10 @@
 			easing: 'easeInOutExpo'
 			bottom: '+=300px'
 			descriptions: [
-							{description: "Firts Thumbnail label"},
-							{description: "Second Thumnail"},
-							{description: "Info3"},
-							{description: "Info4"}
+				{description: "Firts Thumbnail label"},
+				{description: "Second Thumnail"},
+				{description: "Info3"},
+				{description: "Info4"}
 						]
 		
 		constructor: (opts) ->
